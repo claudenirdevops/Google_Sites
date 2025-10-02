@@ -1,4 +1,4 @@
 # Google_Sites
 Lição
 Olá! Estou muito animado para começar a desenvolver um projeto chamado <Resenhas>. A ideia por trás dele é criar resenhas de, entre outros, livros, artigos, filmes e notícias, e acredito que ele pode ser algo incrível! Estou ainda nos primeiros passos e adoraria ter sua opinião ou orientação sobre como dar forma a essa ideia. O que você acha? Como não tenho condições de pagar um domínio e hospedagem para o meu site, vou aprender pelo Google sites como criá-lo de forma gratuita e iniciar a jornada (https://www.udemy.com/home/my-courses/learning/)
-Atualizando: O projeto mudou no caminho, então, acabei aprendendo criar um site pelo Google Sites e, na prática, criei um página para uma pequena loja de açaí de Porto Alegre/RS: https://sites.google.com/view/severoacai/in%C3%ADcio
+Atualizando: O projeto mudou no caminho, então, acabei aprendendo criar um site pelo Google Sites e, na prática, criei uma página para uma pequena loja de açaí (Severo Açaí) de Porto Alegre/RS: https://sites.google.com/view/severoacai/in%C3%ADcio
